@@ -1,6 +1,6 @@
 {
   "name": "browser-md5-file-hqp",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "MD5 file in browser.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -17,19 +17,19 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/forsigner/browser-md5-file.git"
+    "url": "git+https://github.com/huangqingpeng/browser-md5-file-hqp.git"
   },
   "keywords": [
     "md5",
     "browser",
     "md5 file browser"
   ],
-  "author": "forsigner",
+  "author": "huangqingpeng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/forsigner/browser-md5-file/issues"
+    "url": "https://github.com/huangqingpeng/browser-md5-file-hqp/issues"
   },
-  "homepage": "https://github.com/forsigner/browser-md5-file#readme",
+  "homepage": "https://github.com/huangqingpeng/browser-md5-file#readme",
   "devDependencies": {
     "rollup": "^0.66.0",
     "rollup-plugin-commonjs": "^9.1.0",
@@ -41,5 +41,5 @@
   },
   "__npminstall_done": "Mon Mar 25 2019 15:53:47 GMT+0800 (GMT+08:00)",
   "_from": "browser-md5-file@1.1.1",
-  "_resolved": "http://registry.npm.taobao.org/browser-md5-file/download/browser-md5-file-1.1.1.tgz"
+  "_resolved": "http://registry.npm.org/browser-md5-file/download/browser-md5-file-1.0.0.tgz"
 }
